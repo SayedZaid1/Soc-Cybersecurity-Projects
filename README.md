@@ -63,13 +63,12 @@ It is intended for **SOC Analyst**, **Blue Team**, and **Cybersecurity Intern** 
 
 ## 👤 About Me
 
-**Sumit Ubale**  
+**Zaid Sayyed**  
 Cybersecurity Enthusiast & Ethical Hacker  
 Currently learning SOC operations with a strong interest in Blue Team security, threat detection, log analysis, and incident investigation.
 
 ---
 
 ## 🔗 Practice & Professional Profiles
-
-- **TryHackMe:** https://tryhackme.com/p/0xShad0wReign  
-- **LinkedIn:** https://linkedin.com/in/sumit-ubale-568290320
+  
+- **LinkedIn:** linkedin.com/in/zaid-sayyed1
