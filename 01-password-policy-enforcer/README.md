@@ -73,5 +73,5 @@ Audit log files may contain sensitive information and are intentionally excluded
 
 ## 👤 Author
 
-**Sumit Ubale**  
+**Zaid Sayyed**  
 Cybersecurity Student | SOC & VAPT Enthusiast
