@@ -44,5 +44,6 @@ foundational threat detection skills.
 
 ---
 
-👤 **Author:** Sumit Ubale  
+👤 **Author:** Zaid Sayyed  
 🎓 **Role Focus:** Cybersecurity | SOC Analyst (Learning Project)
+
