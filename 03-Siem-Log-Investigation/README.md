@@ -86,10 +86,11 @@ alerting to protect systems from authentication-based attacks.
 ---
 
 ## 👤 Author
-**Sumit Ubale**  
+**Zaid Sayyed**  
 Aspiring SOC Analyst | Cybersecurity Enthusiast  
 
 - Hands-on experience with SIEM (Splunk)
 - Linux authentication log analysis
 - Detection engineering & alert creation
 - MITRE ATT&CK–based threat analysis
+
